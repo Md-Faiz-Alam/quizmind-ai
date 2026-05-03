@@ -448,6 +448,7 @@ Users gain access to:
 
 * GitHub: [https://github.com/Md-Faiz-Alam](https://github.com/Md-Faiz-Alam)
 * LinkedIn: [https://www.linkedin.com/in/alammdfaiz/](https://www.linkedin.com/in/alammdfaiz/)
+* Live Demo: [https://quizmind-69a8oydlo-md-faiz-alams-projects-a349ef8e.vercel.app/](https://quizmind-69a8oydlo-md-faiz-alams-projects-a349ef8e.vercel.app/)
 
 ---
 
